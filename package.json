@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "learn-node",
+  "description": "Learn Node by examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rkverma94/Learn-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rkverma94/Learn-Node/issues"
+  },
+  "homepage": "https://github.com/Rkverma94/Learn-Node#readme"
+}
