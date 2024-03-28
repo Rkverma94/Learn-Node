@@ -27,11 +27,11 @@ const server = http.createServer((req, res) => {
         
         const users = [
             {
-                name : 'Rakesh',
+                name : 'ABC',
                 age : 27
             },
             {
-                name : 'Poonam (Anu)',
+                name : 'XYZ',
                 age : 25
             }
         ];
